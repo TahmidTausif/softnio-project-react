@@ -16,7 +16,6 @@ Check out the live preview of the project:
 
 [Live Preview](https://idyllic-fairy-fbba00.netlify.app/)
 
-> **Note:** The link above is just a placeholder. Replace it with the actual link once the project is deployed.
 
 ## Tech Stack:
 - **React:** JavaScript library for building user interfaces.
